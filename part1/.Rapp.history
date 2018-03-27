@@ -1,0 +1,30 @@
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/selecting_silhoutte/Pancan_SD1.2_combat_silhoutte_selected_gene_exp_sam.out.rda")
+ls()
+sam.out
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/Pancan_SD1.2_combat_silhoutte_selected_diff_gene_exp_matrix_false0_sam.rda")
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/Pancan_SD1.2_combat_silhoutte_selected_diff_gene_exp_matrix_false0_sam.rda")
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/Pancan_SD1.2_combat_silhoutte_selected_gene_exp_sam.out.rda")
+ls()
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/Pancan_SD1.2_combat_silhoutte_selected_gene_exp_sam.out.rda")
+ls()
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/pancan/sam_pam/Pancan_SD1.2_combat_common_genes_sam_pam_centroids.rda")
+ls()
+pam.centroids
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/mot/sam_pam/MOT_SD0.8_combat_sam_diff_gene_exp_matrix_fdr0_sam.rda")
+ls()
+sam.out
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/mot/sil_sam_pam/MOT_SD0.8_combat_silhoutte_correlation_distance_silhoutte_selected_diff_gene_exp_matrix_fdr0_sam.rda")
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/mot/sam_pam/MOT_SD0.8_combat_gene_exp_sam.out.rda")
+sam.out@mat.fdr
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/mot/sil_sam_pam/MOT_SD0.8_combat_silhoutte_correlation_distance_silhoutte_sam_pam_centroids.rda")
+ls()
+pam.centroids
+load("/Users/ppoudel/Dropbox (SPM)/Pawan/ANALYSIS/Internal/Collection/2018/Multiorgan/mot_pan_common_genes_sam_pam/mot/sam_pam/MOT_SD0.8_combat_sam_diff_gene_exp_matrix_fdr0_sam.rda")
+ls()
+pam.centroids
